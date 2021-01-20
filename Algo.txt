@@ -6,4 +6,3 @@ Pizza Algo
 4. Wait on pizza 
 5. Pay delivery person
 6. Enjoy pizza
-Pizza Algo
