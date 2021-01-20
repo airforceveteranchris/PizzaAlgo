@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 Pizza Algo
 
 1. Decide the pizza place
@@ -8,3 +9,15 @@ Pizza Algo
 4. Wait on pizza 
 5. Pay delivery person
 6. Enjoy pizza
+=======
+Decide the pizza place
+Decide what type of pizza I want to order
+Call the pizza place
+
+Order the pizza 
+ 4a. Pay over the phone
+ 4b. Pay at door
+Wait for delivery
+Greet delivery driver
+See step 4b if necessary
+>>>>>>> Stashed changes
